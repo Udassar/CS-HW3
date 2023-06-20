@@ -4,6 +4,25 @@
 // 12821 -> да
 // 23432 -> да
 
+// Console.Write("Vvedite pyatiznachnoe chislo: ");
+// string num = Console.ReadLine();
+
+// if (num.Length == 5){
+//     if (num[0] == num[4] && num[1] == num[3]){
+//         Console.WriteLine("Eto polindrom");
+//     }
+//     else 
+//     {
+//         Console.WriteLine("Eto ne polindrom");
+//     }
+// }
+// else
+// {
+//     Console.WriteLine("Eto ne 5-ti znachnoe chislo");
+// }
+
+
+
 // Задача 21
 // Напишите программу, которая принимает на вход координаты двух точек и находит расстояние между ними в 3D пространстве.
 // A (3,6,8); B (2,1,-7), -> 15.84
