@@ -28,6 +28,24 @@
 // A (3,6,8); B (2,1,-7), -> 15.84
 // A (7,-5, 0); B (1,-1,9) -> 11.53
 
+// Console.Write("Vvedite koordinatu A1: ");
+// int a1 = Convert.ToInt32(Console.ReadLine()!);
+// Console.Write("Vvedite koordinatu A2: ");
+// int a2 = Convert.ToInt32(Console.ReadLine()!);
+// Console.Write("Vvedite koordinatu A2: ");
+// int a3 = Convert.ToInt32(Console.ReadLine()!);
+// Console.Write("Vvedite koordinatu B1: ");
+// int b1 = Convert.ToInt32(Console.ReadLine()!);
+// Console.Write("Vvedite koordinatu B2: ");
+// int b2 = Convert.ToInt32(Console.ReadLine()!);
+// Console.Write("Vvedite koordinatu A2: ");
+// int b3 = Convert.ToInt32(Console.ReadLine()!);
+
+
+// double ab = Math.Sqrt(Math.Pow((a1 - b1), 2) + Math.Pow((a2 - b2), 2) + Math.Pow((a3 - b3), 2));
+
+// Console.WriteLine($"Rasstoyanie mezhdu tochkami = {ab:f2}");
+
 // Задача 23
 // Напишите программу, которая принимает на вход число (N) и выдаёт таблицу кубов чисел от 1 до N.
 // 3 -> 1, 8, 27
