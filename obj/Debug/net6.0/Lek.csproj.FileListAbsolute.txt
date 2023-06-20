@@ -1,0 +1,15 @@
+C:\Users\udgin\OneDrive\Рабочий стол\gkbrns\C#\Sem3\Lek\bin\Debug\net6.0\Lek.exe
+C:\Users\udgin\OneDrive\Рабочий стол\gkbrns\C#\Sem3\Lek\bin\Debug\net6.0\Lek.deps.json
+C:\Users\udgin\OneDrive\Рабочий стол\gkbrns\C#\Sem3\Lek\bin\Debug\net6.0\Lek.runtimeconfig.json
+C:\Users\udgin\OneDrive\Рабочий стол\gkbrns\C#\Sem3\Lek\bin\Debug\net6.0\Lek.dll
+C:\Users\udgin\OneDrive\Рабочий стол\gkbrns\C#\Sem3\Lek\bin\Debug\net6.0\Lek.pdb
+C:\Users\udgin\OneDrive\Рабочий стол\gkbrns\C#\Sem3\Lek\obj\Debug\net6.0\Lek.csproj.AssemblyReference.cache
+C:\Users\udgin\OneDrive\Рабочий стол\gkbrns\C#\Sem3\Lek\obj\Debug\net6.0\Lek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\udgin\OneDrive\Рабочий стол\gkbrns\C#\Sem3\Lek\obj\Debug\net6.0\Lek.AssemblyInfoInputs.cache
+C:\Users\udgin\OneDrive\Рабочий стол\gkbrns\C#\Sem3\Lek\obj\Debug\net6.0\Lek.AssemblyInfo.cs
+C:\Users\udgin\OneDrive\Рабочий стол\gkbrns\C#\Sem3\Lek\obj\Debug\net6.0\Lek.csproj.CoreCompileInputs.cache
+C:\Users\udgin\OneDrive\Рабочий стол\gkbrns\C#\Sem3\Lek\obj\Debug\net6.0\Lek.dll
+C:\Users\udgin\OneDrive\Рабочий стол\gkbrns\C#\Sem3\Lek\obj\Debug\net6.0\refint\Lek.dll
+C:\Users\udgin\OneDrive\Рабочий стол\gkbrns\C#\Sem3\Lek\obj\Debug\net6.0\Lek.pdb
+C:\Users\udgin\OneDrive\Рабочий стол\gkbrns\C#\Sem3\Lek\obj\Debug\net6.0\Lek.genruntimeconfig.cache
+C:\Users\udgin\OneDrive\Рабочий стол\gkbrns\C#\Sem3\Lek\obj\Debug\net6.0\ref\Lek.dll
